@@ -22,6 +22,12 @@ pip install pillow
 
 ## Run the Application
 
+Save the OpenAI key as a system environment variable:
+
+```sh
+export OPENAI_API_KEY="your-secret-key"
+```
+
 To start the application, open a terminal and run:
 
 ```sh
