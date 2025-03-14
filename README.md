@@ -1,4 +1,4 @@
-# fairyTailInnovation
+# fairyTaleInnovation
 GenerativeAI project to create interesting modern fairy tails 
 
 ![](bear_and_rabbit.png)
