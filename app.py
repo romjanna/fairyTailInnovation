@@ -3,10 +3,11 @@ import openai
 import requests
 from PIL import Image
 from io import BytesIO
+import os
 
 app = Flask(__name__)
 
-openai.api_key = "sk-proj-your-API-KEY"
+openai.api_key = os.getenv("OPENAI_API_KEY")
 openai_client = openai.OpenAI(api_key=openai.api_key)
 
 # Function to get AI response with full conversation history
