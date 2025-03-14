@@ -11,3 +11,5 @@ pip install flask
 pip install openai
 pip install requests
 pip install pillow
+
+and index.htm should be placed in the respective folder (templates)
