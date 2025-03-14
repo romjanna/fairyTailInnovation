@@ -27,3 +27,4 @@ To start the application, open a terminal and run:
 ```sh
 python app.py
 ```
+![](bear_and_squirell.png)
